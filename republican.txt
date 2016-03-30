@@ -1,0 +1,39 @@
+State	Date	Delegates	Trump	Cruz	Rubio	Kasich	Primary/Caucus	Delegate Allocation	Open/Closed
+Iowa	February 1	30	7	8	7	1	Caucus	Proportional	Closed
+New Hampshire	February 9	23	11	3	2	4	Primary	Proportional*	Open**
+South Carolina	February 20	50	50	0	0	0	Primary	Winner Take All∇	Open
+Nevada	February 23	30	14	6	7	1	Caucus	Proportional	Closed
+Alabama	March 1	50	36	13	1	0	Primary	Proportional*#∇	Open
+Alaska	March 1	28	14	14	0	0	Caucus	Proportional*	Closed
+Arkansas	March 1	40	16	15	9	0	Primary	Proportional*#	Open
+Georgia	March 1	76	42	18	16	0	Primary	Proportional*#∇	Open**
+Massachusetts	March 1	42	22	4	8	8	Primary	Proportional*	Open**
+Minnesota	March 1	38	8	13	17	0	Caucus	Proportional*#∇	Open
+Oklahoma	March 1	43	13	15	12	0	Primary	Proportional*#∇	Closed
+Tennessee	March 1	58	33	16	9	0	Primary	Proportional*#∇	Open
+Texas	March 1	155	48	104	3	0	Primary	Proportional*#∇	Open
+Vermont	March 1	16	8	0	0	8	Primary	Proportional*#	Open
+Virginia	March 1	49	17	8	16	5	Primary	Proportional	Open
+Colorado1	March 1	37					Caucus	Unbound	Closed
+Kansas	March 5	40	9	24	6	1	Caucus	Proportional*∇	Closed
+Kentucky	March 5	46	17	15	7	7	Caucus	Proportional*	Closed
+Louisiana	March 5	46	18	18	5	0	Primary	Proportional*∇	Closed
+Maine	March 5	23	9	12	0	2	Caucus	Proportional*#	Closed
+Puerto Rico	March 6	23	0	0	23	0	Primary	Proportional*#	Open
+Hawaii	March 8	19	11	7	1	0	Caucus	Proportional*∇	Closed
+Idaho	March 8	32	12	20	0	0	Primary	Proportional*#	Closed
+Michigan	March 8	59	25	17	0	17	Primary	Proportional*#	Open
+Mississippi	March 8	40	24	13	0	0	Primary	Proportional*∇	Open
+Virgin Islands	March 10	9	0	0	0	0	Caucus	Winner Take All	Closed
+Wyoming1	March 12	29	1	9	1	0	Caucus	Unbound	Closed
+Guam	March 12	9	0	1	0	0	Convention	Unbound	Closed
+District of Columbia	March 12	19	0	0	10	9	Convention	Proportional*	Closed
+Florida	March 15	99	99	0	0	0	Primary	Winner Take All	Closed
+Illinois	March 15	69	53	9	0	5	Primary	Winner Take All∇	Open
+Missouri	March 15	52	25	15	0	0	Primary	Winner Take All∇	Open
+North Carolina	March 15	72	29	27	6	9	Primary	Proportional	Open**
+Northern Marianas	March 15	9	9	0	0	0	Caucus	Winner Take All	Closed
+Ohio	March 15	66	0	0	0	66	Primary	Winner Take All	Open**
+American Samoa	March 22	9	1	1	0	0	Convention	Unbound	Open
+Arizona	March 22	58	58	0	0	0	Primary	Winner Take All	Closed
+Utah	March 22	40	0	40	0	0	Caucus	Proportional*#	Closed

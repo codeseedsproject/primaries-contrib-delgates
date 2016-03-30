@@ -1,0 +1,33 @@
+State	Date	Delegates	Clinton	Sanders	Delegate Allocation	Open/Closed
+Iowa	February 1	44 (8)	23	21	Caucus	Semi-open
+New Hampshire	February 9	24 (8)	9	15	Primary	Semi-closed
+Nevada	February 20	35 (8)	20	15	Caucus	Closed
+South Carolina	February 27	53 (6)	39	14	Primary	Open
+Alabama	March 1	53 (7)	44	9	Primary	Open
+American Samoa	March 1	6 (4)	4	2	Caucus	Closed
+Arkansas	March 1	32 (5)	22	10	Primary	Open
+Colorado	March 1	66 (13)	28	38	Caucus	Closed
+Democrats Abroad	March 1-8	13 (4)	4	9	Primary	Closed
+Georgia	March 1	102 (14)	73	29	Primary	Open
+Massachusetts	March 1	91 (25)	46	45	Primary	Semi-closed
+Minnesota	March 1	77 (16)	31	46	Caucus	Open
+Oklahoma	March 1	38 (4)	17	21	Primary	Semi-closed
+Tennessee	March 1	67 (9)	44	23	Primary	Open
+Texas	March 1	222 (30)	147	75	Primary	Open
+Vermont	March 1	16 (10)	0	16	Primary	Open
+Virginia	March 1	95 (15)	62	33	Primary	Open
+Louisiana	March 5	51 (8)	37	14	Primary	Closed
+Nebraska	March 5	25 (5)	10	15	Caucus	Closed
+Kansas	March 5	33 (4)	9	24	Caucus	Closed
+Maine	March 6	25 (5)	9	16	Caucus	Closed
+Mississippi	March 8	36 (5)	32	4	Primary	Open
+Michigan	March 8	130 (17)	63	67	Primary	Open
+Northern Marianas	March 12	6 (5)	4	2	N/A	N/A
+Florida	March 15	214 (32)	141	70	Primary	Closed
+Illinois	March 15	156 (26)	76	73	Primary	Open
+Missouri	March 15	71 (13)	34	34	Primary	Open
+North Carolina	March 15	107 (14)	59	45	Primary	Semi-closed
+Ohio	March 15	143 (16)	81	62	Primary	Semi-open
+Arizona	March 22	75 (10)	44	30	Primary	Closed
+Idaho	March 22	23 (4)	5	17	Caucus	Open
+Utah	March 22	33 (4)	6	26	Caucus	Semi-open
